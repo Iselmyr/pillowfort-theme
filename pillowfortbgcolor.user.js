@@ -8,3 +8,5 @@
 // ==/UserScript==
 
 document.body.style.background = "#451445";
+
+document.body.style.border = "#A60000";
